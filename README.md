@@ -2,7 +2,9 @@
 Fan Control for Orange Pi H3 boards write in Python
 
    To start you will need the python headers and library installed, if you haven't or aren't sure just type:
+   
     sudo apt-get install python-dev
+    
    Install H3 GPIO Python git Repository:
     
     git clone https://github.com/duxingkei33/orangepi_PC_gpio_pyH3
