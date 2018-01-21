@@ -7,13 +7,13 @@ Fan Control for Orange Pi H3 boards writen in Python
     
    Install H3 GPIO Python git Repository:
     
-    git clone https://github.com/duxingkei33/orangepi_PC_gpio_pyH3
+    git clone https://github.com/duxingkei33/orangepi_PC_gpio_pyH3.git
     cd orangepi_PC_gpio_pyH3
     sudo python setup.py install
     
    Create a CRON job to make it run as service, edit CRON as Super User
    to give permission for file control GPIO.
-   CRON JOB EXAMPLE: 
+   CRON job example: 
    
     sudo crontab -e
     
