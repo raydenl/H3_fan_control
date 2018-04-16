@@ -1,5 +1,5 @@
 # H3_fan_control
-Fan Control for Orange Pi H3 boards writen in Python
+Fan Control for Orange Pi H3 boards written in Python
 
    To start you will need the python headers and library installed, if you haven't or aren't sure just type:
    
